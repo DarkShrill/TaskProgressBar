@@ -1,8 +1,11 @@
+
+
 # Project Description
 The project is a desktop application developed using the Qt framework, showing how to use the QWinTaskbarButton class and the QWinTaskbarProgress class to interact with the Windows taskbar.
 
 The GUI of the application consists of a main window containing the "Start" button. By clicking on the "Start" button, the application will start performing a simulated operation and display the Windows taskbar progress bar via the QWinTaskbarProgress class.
-
+***
+![Made with love in Italy](https://madewithlove.now.sh/it?heart=true&colorA=%234d3c6f&template=for-the-badge)
 ## Graphical interface
 The GUI of the application consists of the following parts:
 
