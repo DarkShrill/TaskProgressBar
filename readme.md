@@ -8,8 +8,8 @@ The GUI of the application consists of the following parts:
 
 - Main Window: contains the "Start" button and the taskbar progress bar.
 
-[![Main Window](https://github.com/DarkShrill/TaskProgressBa/blob/main/stuff/TestTaskProgressBar-1.PNG)](https://github.com/DarkShrill/TaskProgressBa/blob/main/stuff/TestTaskProgressBar-1.PNG)
-[![Main Window](https://github.com/DarkShrill/TaskProgressBa/blob/main/stuff/TestTaskProgressBar-2.PNG)](https://github.com/DarkShrill/TaskProgressBa/blob/main/stuff/TestTaskProgressBar-2.PNG)
+[![Main Window](https://github.com/DarkShrill/TaskProgressBa/blob/master/stuff/TestTaskProgressBar-1.PNG)](https://github.com/DarkShrill/TaskProgressBa/blob/master/stuff/TestTaskProgressBar-1.PNG)
+[![Main Window](https://github.com/DarkShrill/TaskProgressBa/blob/master/stuff/TestTaskProgressBar-2.PNG)](https://github.com/DarkShrill/TaskProgressBa/blob/master/stuff/TestTaskProgressBar-2.PNG)
 
 ## Using the QWinTaskbarButton and QWinTaskbarProgress classes.
 
